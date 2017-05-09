@@ -1,4 +1,4 @@
-# Moj super projekt (ki ga še ni)
+# Moj super projekt
 
 To je moj repozitorij, ki vsebuje moj projekt pri UVP.
 
